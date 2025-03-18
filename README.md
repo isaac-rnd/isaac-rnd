@@ -12,11 +12,11 @@
 
 - 💬 Ask me about **Web Development or going online with your own website**
   
-- ⚡ Cool fact about me ** I Laugh a Lot !!! Literally my name's meaning itself is 'One Who Laughs' the Irony !!**
+- ⚡ Fun fact about me **I Laugh a Lot !!! Literally my name's meaning itself is 'One Who Laughs' the Irony !!**
 
 - 📫 Reach me at **isaacinfrastructure@gmail.com** smartest hardworker you'll find 😉
 
-- 🌐 Portfolio: [React Portfolio](https://rndisaac.github.io) | [Main Website Isaac](https://rndisaac.com) | [Google Cloud](https://isaaconline.web.app)
+- 🌐 Portfolio: [React Portfolio](https://rndisaac.github.io) | [Main Site](https://rndisaac.com) | [Google Cloud](https://isaaconline.web.app)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -75,7 +75,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=isaac-rnd&label=Profile%20views&color=0e75b6&style=flat" alt="rndisaac" /></p>
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isaac-rnd&rank=-C&theme=dracula" alt="isaac-rnd" /></a></p>
 <div style="display: flex; flex-direction: row; margin:10px; padding:10px">
- <img class="img" height=200 style="margin-right:4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-rnd&langs_count=6&layout=compact&custom_title=Isaac%27s%20most%20used%20languages&theme=dark&card_width=500&hide=jupyter%20notebook,html,jinja" alt="Web Developer Isaac"/>
+ <img class="img" height=200 style="margin-right:4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-rnd&langs_count=6&layout=compact&custom_title=Isaac%27s%20most%20used%20languages&theme=dark&card_width=500&hide=jupyter%20notebook,html,jinja,css" alt="Web Developer Isaac"/>
 <!--  <img class="img" height=200 src="https://github-readme-stats.vercel.app/api?username=isaac-rnd&show_icons=true&theme=radical" /> -->
 </div>
 
