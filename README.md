@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning & GEN-AI**
 
-- 🔭 I’m currently working on an **BigData & Apache Java Spark Projects**
+- 🔭 I’m currently working on an **BigData & Apache Spark Projects**
 
 - 👯 Open to collaborating on **Angular/ Springboot/ Spark & GENAI Projects**. So I Can Also Learn More!
 
@@ -47,7 +47,7 @@
 <h4>DevOps:</h4>
 <p align="left">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
@@ -57,7 +57,13 @@
 <h4>Big Data & AI:</h4>
 <p align="left">
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="apache spark" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/openai5002.jpg" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://www.openai.com/" target="_blank" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/openai5002.jpg" alt="tensorflow" width="40" height="40"/></a>
+<a href="https://databricks.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.brandfetch.io/databricks.com/w/320/h/320?c=1idbdI8psuQC4XU015J" alt="Databricks" width="40" height="40"/>
+</a>
+  <a href="https://pandas.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-plain.svg" alt="pandas" width="40" height="40"/>
+</a>
 </p>
 
 <h4>Databases:</h4>
@@ -78,9 +84,7 @@
  <img class="img" height=200 style="margin-right:4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-rnd&langs_count=6&layout=compact&custom_title=Isaac%27s%20most%20used%20languages&theme=dark&card_width=500&hide=jupyter%20notebook,html,jinja,css" alt="Web Developer Isaac"/>
 <!--  <img class="img" height=200 src="https://github-readme-stats.vercel.app/api?username=isaac-rnd&show_icons=true&theme=radical" /> -->
 </div>
-
-<p style="margin-top:40px;"><img align="Left" src="https://github-readme-streak-stats.herokuapp.com/?user=isaac-rnd&theme=dark" alt="isaac-rnd" /></p>
-</br></br>
+</br>
 <div align="left">
  <h2>Connect With Me On :</h2>
 <a href="https://twitter.com/webdevisaac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="webdevisaac" height="30" width="40" /></a>
@@ -92,4 +96,4 @@
 </div>
 </br></br>
 <div>
-<p>Support : <a href="https://www.buymeacoffee.com/webdevIsaac"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/webdevIsaac" /></a></p></div>
+<p>Support : <a href="https://www.buymeacoffee.com/webdevIsaac"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/isaac.rnd" /></a></p></div>
