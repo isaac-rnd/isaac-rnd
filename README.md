@@ -87,13 +87,13 @@
 </br>
 <div align="left">
  <h2>Connect With Me On :</h2>
-<a href="https://twitter.com/webdevisaac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="webdevisaac" height="30" width="40" /></a>
+<a href="https://x.com/isaac_research" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="webdevisaac" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rndisaac/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="webdevisaac" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15661391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15661391" height="30" width="40" /></a>
 <a href="https://instagram.com/cyberwarriorisaac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyberwarriorisaac" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/isaacwebdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="isaacwebdeveloper" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@isaacyoutube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="isaacwebdeveloper" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mrisaac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mrisaac" height="30" width="40" /></a>
 </div>
 </br></br>
 <div>
-<p>Support : <a href="https://www.buymeacoffee.com/webdevIsaac"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/isaac.rnd" /></a></p></div>
+<p>Support : <a href="buymeacoffee.com/isaac.rnd"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/isaac.rnd" /></a></p></div>
