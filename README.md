@@ -16,7 +16,7 @@
 
 - 📫 Reach me at **isaacinfrastructure@gmail.com** smartest hardworker you'll find 😉
 
-- 🌐 Portfolio: [React Portfolio](https://rndisaac.github.io) | [Main Site](https://rndisaac.com) | [Google Cloud](https://isaaconline.web.app)
+- 🌐 Portfolio: [React Portfolio](https://isaac-rnd.github.io) | [Main Site](https://rndisaac.com) | [Google Cloud](https://isaaconline.web.app)
 
 <h3 align="left">Languages and Tools:</h3>
 
